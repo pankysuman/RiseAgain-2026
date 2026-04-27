@@ -1,2 +1,2 @@
 # RiseAgain-2026
-My new reposit
+My new repository for 2026
